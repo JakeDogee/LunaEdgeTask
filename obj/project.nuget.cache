@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvxgQdvou6Rq9Yib4bbhXe45KnuBIobQX+P+YuyM/24uPyPSyBTchTtr1qAa3zaFX/Vksh1l0WlzMYSEUAInEg==",
+  "success": true,
+  "projectFilePath": "E:\\code\\LunaEdgeTask\\LunaEdgeTask\\LunaEdgeTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unovi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.7.24405.3\\microsoft.entityframeworkcore.9.0.0-preview.7.24405.3.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.7.24405.3\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.7.24405.3.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.7.24405.3\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.7.24405.3.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.7.24405.7\\microsoft.extensions.caching.abstractions.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.7.24405.7\\microsoft.extensions.caching.memory.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.7.24405.7\\microsoft.extensions.dependencyinjection.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.7.24405.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.7.24405.7\\microsoft.extensions.logging.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.7.24405.7\\microsoft.extensions.logging.abstractions.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.7.24405.7\\microsoft.extensions.options.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.7.24405.7\\microsoft.extensions.primitives.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0-preview.7.24405.7\\system.diagnostics.diagnosticsource.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "C:\\Users\\unovi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
